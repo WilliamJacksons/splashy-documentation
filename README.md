@@ -33,12 +33,3 @@ npm install williamsbots
 <p align="center">
 Hi, I'm <b>Cookie</b>. I made the first version of MEE6 bot in 3 days.
 </p>
-
-## Who made this?
-
-<p align="center">
-<img src="docs/pics/cookie.jpg?raw=true">
-</p>
-<p align="center">
-Hi, I'm <b>William + Danny</b>. I made the first version of Splashy bot in 1 Week.
-</p>
