@@ -1,3 +1,0 @@
-# Twitch & co. plugin
-
-TODO
