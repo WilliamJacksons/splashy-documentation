@@ -9,16 +9,8 @@ npm install williamsbots
 
 ### Some handy links 
 
-* Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/splashy)
-* Splashy Github: [![Git](https://img.shields.io/badge/Github-MEE6-62d3f5.svg?style=flat-square)](https://github.com/WilliamJacksons/splashy-documentation)
-
-<img src="docs/pics/cggk7y9%5B1%5D.png?raw=true">
-
-|Splashy Feature|Description| Updating ..
-|-------|-----------|
-
-> AND MUCH MORE
-
+* Discord server: https://discord.gg/splashy
+* Splashy Github: https://github.com/WilliamJacksons/splashy-documentation
 
 <img src="docs/pics/cggk7y9%5B1%5D.png?raw=true">
 
