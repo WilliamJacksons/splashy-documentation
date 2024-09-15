@@ -1,3 +1,0 @@
-# Search Anything plugin
-
-TODO
